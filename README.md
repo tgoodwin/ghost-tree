@@ -4,4 +4,4 @@ Each tree will be different!
 
 `python trees.py`
 
-[example] (/tree.png)
+![example] (/tree.png)
