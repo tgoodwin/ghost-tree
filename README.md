@@ -1,6 +1,6 @@
 # ghost-tree
-ghost tree draws trees recursively just for fun
-Each tree will be different!
+Ghost tree draws trees recursively *just for fun*.
+Each tree will be different! It's random.
 
 `python trees.py`
 
